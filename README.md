@@ -8,7 +8,7 @@ I put every sensor code alone and then combined them in the file Temperature-and
 
 The images explain how to connect the different sensors with the arduino.
 
-This is how to connect the soil humidity sensor
+This is how to connect the soil humidity sensor KY70 : 
 
     Sensor --> Arduino Uno
     
